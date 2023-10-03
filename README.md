@@ -1,18 +1,16 @@
-## Getting Started
+## Projeto Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Objetivo do Prfojeto é:
+1. Efetuar operação aritmetica de subtração;
+2. Mostrar o valor do resultado na tela;
+3. Criar um **laço de repetição** com o resultado e imprimir na tela de forma **crescente**;
 
-## Folder Structure
+### Habilidades Desenvolvidas no Projeto
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- [x] Importação de Classes;
+- [x] Metodos;
+- [x] Entrada de Dados pelo usuario (Classe Scanner);
+- [x] Estrutura Condicional;
+- [x] Estrutura de Repetição
+- [ ] Try e Catch
+- [ ] Tratamento de Exceções;
